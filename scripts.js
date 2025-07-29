@@ -67,6 +67,8 @@
           ${imageHtml}
           <p>${page.extract}</p>`;
 
+        document.getElementById("output2").innerHTML = ``;
+
          }
         )
 
